@@ -2,26 +2,26 @@
 
 <!DOCTYPE plist SYSTEM "http://www.apple.com/DTDs/PropertyList-1.0.dtd" PUBLIC "-//Apple//DTD PLIST 1.0//EN">
 
--<plist version="ver 2013.01.09 1.01.02(.02)">
+<plist version="ver 2013.01.09 1.01.02(.02)">
 
 
--<dict>
+<dict>
 
 <key>items</key>
 
 
--<array>
+<array>
 
 
--<dict>
+<dict>
 
 <key>assets</key>
 
 
--<array>
+<array>
 
 
--<dict>
+<dict>
 
 <key>kind</key>
 
@@ -34,7 +34,7 @@
 </dict>
 
 
--<dict>
+<dict>
 
 <key>kind</key>
 
@@ -51,7 +51,7 @@
 </dict>
 
 
--<dict>
+<dict>
 
 <key>kind</key>
 
@@ -72,7 +72,7 @@
 <key>metadata</key>
 
 
--<dict>
+<dict>
 
 <key>bundle-identifier</key>
 
