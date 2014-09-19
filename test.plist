@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist SYSTEM "http://www.apple.com/DTDs/PropertyList-1.0.dtd" PUBLIC "-//Apple//DTD PLIST 1.0//EN">
-<plist version="ver 2013.01.09 1.01.02(.02)">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
 <dict>
 	<key>items</key>
 	<array>
@@ -11,21 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://114.215.203.171/test30.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>http://114.215.203.171/icon.png</string>
+					<string>https://www.foub.net/kqb.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
+					<key>url</key>
+					<string>http://114.215.203.171/icon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
 					<key>url</key>
 					<string>http://114.215.203.171/icon.png</string>
 				</dict>
@@ -39,9 +39,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string/>
+				<string>test</string>
 				<key>title</key>
-				<string>ceshi</string>
+				<string>test</string>
 			</dict>
 		</dict>
 	</array>
