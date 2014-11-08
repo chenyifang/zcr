@@ -29,7 +29,7 @@
 
 <key>url</key>
 
-<string>http://121.40.189.31/zcr46.ipa</string>
+<string>http://121.40.189.31/zcr47.ipa</string>
 
 </dict>
 
@@ -76,7 +76,7 @@
 
 <key>bundle-identifier</key>
 
-<string>com.zcr</string>
+<string>dd.UnDead</string>
 
 <key>bundle-version</key>
 
